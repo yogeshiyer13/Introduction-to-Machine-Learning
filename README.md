@@ -1,5 +1,5 @@
 # Introduction-to-Machine-Learning
-**Part 1 - Data Preprocessing - ** 
+**Part 1 - Data Preprocessing -** 
 Data preprocessing has the following parts: 
 - Importing the libraries - Basic libraries which would be useful while processing the data such as numpy, pandas, matplotlib
 - Importing the dataset- How to get data from .csv file
