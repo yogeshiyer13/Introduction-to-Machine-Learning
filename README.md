@@ -9,3 +9,13 @@ hence one hot encoding is used to convert categorical data to integer data.
 - Splitting the data into training and test set
 - Feature Scaling: It is a step of Data Pre Processing which is applied to independent variables or features of data. 
 It basically helps to normalise the data within a particular range
+
+**Part 2 - Simple Linear Regression -**
+Simple Linear Regression has the following parts:
+- Importing the libraries - Basic libraries which would be useful while processing the data such as numpy, pandas, matplotlib
+- Importing the dataset- How to get data from .csv file
+- Splitting the dataset into the Training set and Test set
+- Training the Simple Linear Regression model on the Training set
+- Predicting the Test set results
+- Visualising the Training set results
+- Visualising the Test set results
