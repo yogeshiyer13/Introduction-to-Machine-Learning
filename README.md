@@ -19,3 +19,12 @@ Simple Linear Regression has the following parts:
 - Predicting the Test set results
 - Visualising the Training set results
 - Visualising the Test set results
+
+**Part 3 - Multiple Linear Regression -**
+Multiple Linear Regression has the following parts:
+- Importing the libraries - Basic libraries which would be useful while processing the data such as numpy, pandas, matplotlib
+- Importing the dataset- How to get data from .csv file
+- Encoding categorical data - Most machine learning algorithms require numerical input and output variables 
+- Splitting the dataset into the Training set and Test set
+- Training the Multiple Linear Regression model on the Training set
+- Predecting the Test set results
