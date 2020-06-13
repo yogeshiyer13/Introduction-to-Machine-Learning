@@ -23,7 +23,9 @@ Simple linear regression is a linear regression model with a single explanatory 
 - Visualising the Test set results
 
 **Part 3 - Multiple Linear Regression -**
-Multiple Linear Regression has the following parts:
+Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the linear relationship between the explanatory (independent) variables and response (dependent) variable. The Formula for Multiple Linear Regression is: ![MLR](https://drive.google.com/file/d/1LuUhQyOabQFJxveWUZ30G5RZVj6aXe44/view?usp=sharing)
+
+- Multiple Linear Regression has the following parts:
 - Importing the libraries - Basic libraries which would be useful while processing the data such as numpy, pandas, matplotlib
 - Importing the dataset- How to get data from .csv file
 - Encoding categorical data - Most machine learning algorithms require numerical input and output variables 
