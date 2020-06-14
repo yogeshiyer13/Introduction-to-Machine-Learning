@@ -33,3 +33,18 @@ Multiple linear regression (MLR), also known simply as multiple regression, is a
 - Splitting the dataset into the Training set and Test set
 - Training the Multiple Linear Regression model on the Training set
 - Predecting the Test set results  
+
+**Part 4 - Polynomial Regression -**
+In the last section, we saw two variables in our data set were correlated but what happens if we know that our data is correlated, but the relationship doesn’t look linear? So hence depending on what the data looks like, we can do a polynomial regression on the data to fit a polynomial equation to it.  
+![PR](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%204%20-%20Polynomial%20Regression/PR.JPG)
+
+- Polynomial Regression has the following parts:
+- Importing the libraries - Basic libraries which would be useful while processing the data such as numpy, pandas, matplotlib
+- Importing the dataset- How to get data from .csv file
+- Training the Linear Regression model on the whole dataset 
+- Training the Polynomial Regression model on the whole dataset
+- Visualising the Linear Regression results
+- Visualising the Polynomial Regression results
+- Visualising the Polynomial Regression results (for higher resolution and smoother curve)
+- Predicting a new result with Linear Regression
+- Predicting a new result with Polynomial Regression
