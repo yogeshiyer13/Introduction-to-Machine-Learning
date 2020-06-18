@@ -49,3 +49,16 @@ In the last section, we saw two variables in our data set were correlated but wh
 - Visualising the Polynomial Regression results (for higher resolution and smoother curve)
 - Predicting a new result with Linear Regression
 - Predicting a new result with Polynomial Regression
+
+**Part 5 - Support Vector Regression -**
+Support Vector Regression (SVR) uses the same principle as SVM, but for regression problems.what if we are only concerned about reducing error to a certain degree? What if we don’t care how large our errors are, as long as they fall within an acceptable range? Here the SVR is quite useful.  
+![SVR](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%205%20-%20Support%20Vector%20Regresssion/SVR.JPG)
+
+- SVR has the following parts: 
+- Importing the libraries
+- Importing the dataset
+- Feature Scaling
+- Training the SVR model on the whole dataset
+- Predicting a new result
+- Visualising the SVR results
+- Visualising the SVR results (for higher resolution and smoother curve)
