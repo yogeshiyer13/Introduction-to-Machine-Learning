@@ -73,3 +73,16 @@ Decision tree builds regression or classification models in the form of a tree s
 - Training the Decision Tree Regression model on the whole dataset
 - Predicting a new result
 - Visualising the Decision Tree Regression results (higher resolution)
+
+**Part 7 - Random Forest Regression -**
+Random forest is a Supervised Learning algorithm which uses ensemble learning method for classification and regression.
+Random forest is a bagging technique and not a boosting technique. The trees in random forests are run in parallel. There is no interaction between these trees while building the trees.
+It operates by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees.  
+![RFR](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%207%20-%20Random%20Forest%20Regression/RFR.JPG)
+
+- RFR has the following parts:
+- Importing the libraries
+- Importing the dataset
+- Training the Random Forest Regression model on the whole dataset
+- Predicting a new result
+- Visualising the Random Forest Regression results (higher resolution)
