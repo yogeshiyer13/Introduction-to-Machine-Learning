@@ -62,3 +62,14 @@ Support Vector Regression (SVR) uses the same principle as SVM, but for regressi
 - Predicting a new result
 - Visualising the SVR results
 - Visualising the SVR results (for higher resolution and smoother curve)
+
+**Part 6 - Decision Tree Regression -**
+Decision tree builds regression or classification models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes. A decision node (e.g., Outlook) has two or more branches (e.g., Sunny, Overcast and Rainy), each representing values for the attribute tested. Leaf node (e.g., Hours Played) represents a decision on the numerical target. The topmost decision node in a tree which corresponds to the best predictor called root node. Decision trees can handle both categorical and numerical data.   
+![DTR](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%206%20-%20Decision%20Tree%20Regression/DTR.JPG)
+
+- DTR has the following parts:
+- Importing the libraries
+- Importing the dataset
+- Training the Decision Tree Regression model on the whole dataset
+- Predicting a new result
+- Visualising the Decision Tree Regression results (higher resolution)
