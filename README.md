@@ -86,3 +86,16 @@ It operates by constructing a multitude of decision trees at training time and o
 - Training the Random Forest Regression model on the whole dataset
 - Predicting a new result
 - Visualising the Random Forest Regression results (higher resolution)
+
+**Regression folder-**
+Assuming all the features on the forst columns and all the dependent var in the last column.  
+
+The Dataset which we we are using is UCI Machine Learning Repository.  
+Dataset is called as: Combined Cycle Power Plant  
+
+We are predicting the dependent var Energy output(PE) with the features given.  
+We have several features in the dataset such as: Engine Temp(AT), Vaccuum(V), Ambient pressure(AP), Relative Humidity(RH). 
+
+The following parts are being executed in this folder - 
+Multiple Linear Regression(MLR), Polynomial Linear Regression(PLR), Support Vector Regression(SVR), Decision Tree Regression(DTR), Random Forest Regression(RFR). 
+
