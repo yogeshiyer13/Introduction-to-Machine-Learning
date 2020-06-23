@@ -97,5 +97,10 @@ We are predicting the dependent var Energy output(PE) with the features given.
 We have several features in the dataset such as: Engine Temp(AT), Vaccuum(V), Ambient pressure(AP), Relative Humidity(RH). 
 
 The following parts are being executed in this folder - 
-Multiple Linear Regression(MLR), Polynomial Linear Regression(PLR), Support Vector Regression(SVR), Decision Tree Regression(DTR), Random Forest Regression(RFR). 
+Multiple Linear Regression(MLR), Polynomial Linear Regression(PLR), Support Vector Regression(SVR), Decision Tree Regression(DTR), Random Forest Regression(RFR).  
+
+- This figure given below helps us in understanding which regression to use when in brief:  
+![Regression](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Regression/Regression.JPG)
+
+
 
