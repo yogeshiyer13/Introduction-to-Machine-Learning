@@ -103,9 +103,8 @@ Multiple Linear Regression(MLR), Polynomial Linear Regression(PLR), Support Vect
 ![Regression](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Regression/Regression.JPG)
 
 **Part 8 - Logistic Regression -**
-Logistic regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable, although many more complex extensions exist. In regression analysis, logistic regression (or logit regression) is estimating the parameters of a logistic model (a form of binary regression).
-
-- This is the logistic function:    
+Logistic regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable, although many more complex extensions exist. In regression analysis, logistic regression (or logit regression) is estimating the parameters of a logistic model (a form of binary regression).  
+   
 ![LR](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%208%20-%20Logistic%20Regression/LR.JPG)  
  - The graph looks like this:  
 ![LogReg](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%208%20-%20Logistic%20Regression/logreg.JPG)
