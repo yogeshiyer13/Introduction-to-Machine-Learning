@@ -107,8 +107,26 @@ Logistic regression is a statistical model that in its basic form uses a logisti
    
 ![LR](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%208%20-%20Logistic%20Regression/LR.JPG)  
  - The graph looks like this:  
-![LogReg](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%208%20-%20Logistic%20Regression/logreg.JPG)
+![LogReg](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%208%20-%20Logistic%20Regression/logreg.JPG)  
 
+**Part 9 - K Nearest Neighbour -**
+k-NN is a type of instance-based learning, or lazy learning, where the function is only approximated locally and all computation is deferred until function evaluation.  
 
+Both for classification and regression, a useful technique can be to assign weights to the contributions of the neighbors, so that the nearer neighbors contribute more to the average than the more distant ones. For example, a common weighting scheme consists in giving each neighbor a weight of 1/d, where d is the distance to the neighbor.  
 
+The neighbors are taken from a set of objects for which the class (for k-NN classification) or the object property value (for k-NN regression) is known. This can be thought of as the training set for the algorithm, though no explicit training step is required.  
 
+A peculiarity of the k-NN algorithm is that it is sensitive to the local structure of the data.  
+
+![KNN](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%209%20-%20KNN/KNN.png)  
+
+- Importing the libraries
+- Importing the dataset
+- Splitting the dataset into the Training set and Test set
+- Feature Scaling
+- Training the K-NN model on the Training set
+- Predicting a new result
+- Predicting the Test set results
+- Making the Confusion Matrix
+- Visualising the Training set results
+- Visualising the Test set results
