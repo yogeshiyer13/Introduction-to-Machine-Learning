@@ -137,4 +137,16 @@ Let’s imagine we have two tags: red and blue, and our data has two features: x
 ![LBD](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%2010%20-%20Support%20Vector%20Machine/Labelled%20data.JPG)  
 
 A support vector machine takes these data points and outputs the hyperplane (which in two dimensions it’s simply a line) that best separates the tags. This line is the decision boundary: anything that falls to one side of it we will classify as blue, and anything that falls to the other as red.
-![SVM](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%2010%20-%20Support%20Vector%20Machine/SVM.JPG)
+![SVM](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%2010%20-%20Support%20Vector%20Machine/SVM.JPG)  
+
+It has the following: 
+- Importing the libraries
+- Importing the dataset
+- Splitting the dataset into the Training set and Test set
+- Feature Scaling
+- Training the SVM model on the Training set
+- Predicting a new result
+- Predicting the Test set results
+- Making the Confusion Matrix
+- Visualising the Training set results
+- Visualising the Test set results
