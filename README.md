@@ -120,6 +120,7 @@ A peculiarity of the k-NN algorithm is that it is sensitive to the local structu
 
 ![KNN](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%209%20-%20KNN/KNN.png)  
 
+It has the following:  
 - Importing the libraries
 - Importing the dataset
 - Splitting the dataset into the Training set and Test set
@@ -130,3 +131,10 @@ A peculiarity of the k-NN algorithm is that it is sensitive to the local structu
 - Making the Confusion Matrix
 - Visualising the Training set results
 - Visualising the Test set results
+
+**Part 10 - Support Vector Machines -**  
+Let’s imagine we have two tags: red and blue, and our data has two features: x and y. We want a classifier that, given a pair of (x,y) coordinates, outputs if it’s either red or blue. We plot our already labeled training data on a plane:  
+![LBD](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%2010%20-%20Support%20Vector%20Machine/Labelled%20data.JPG)  
+
+A support vector machine takes these data points and outputs the hyperplane (which in two dimensions it’s simply a line) that best separates the tags. This line is the decision boundary: anything that falls to one side of it we will classify as blue, and anything that falls to the other as red.
+![SVM](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%2010%20-%20Support%20Vector%20Machine/SVM.JPG)
