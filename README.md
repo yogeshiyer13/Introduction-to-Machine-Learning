@@ -150,3 +150,13 @@ It has the following:
 - Making the Confusion Matrix
 - Visualising the Training set results
 - Visualising the Test set results
+
+**Part 11 - Kernel SVM -**  
+Lets take an example of non-linear data is:  
+![KSVM](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%2011%20-%20Kernel%20SVM/KSVM.JPG)  
+
+In this case we cannot find a straight line to separate apples from lemons. So how can we solve this problem. We will use the Kernel Trick!
+The basic idea is that when a data set is inseparable in the current dimensions, add another dimension, maybe that way the data will be separable. 
+Just think about it, the example above is in 2D and it is inseparable, but maybe in 3D there is a gap between the apples and the lemons, maybe there is a level difference, so lemons are on level one and lemons are on level two. 
+In this case we can easily draw a separating hyperplane (in 3D a hyperplane is a plane) between level 1 and 2.
+
