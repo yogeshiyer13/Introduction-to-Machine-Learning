@@ -160,3 +160,15 @@ The basic idea is that when a data set is inseparable in the current dimensions,
 Just think about it, the example above is in 2D and it is inseparable, but maybe in 3D there is a gap between the apples and the lemons, maybe there is a level difference, so lemons are on level one and lemons are on level two. 
 In this case we can easily draw a separating hyperplane (in 3D a hyperplane is a plane) between level 1 and 2.
 
+It has the following: 
+- Importing the libraries
+- Importing the dataset
+- Splitting the dataset into the Training set and Test set
+- Feature Scaling
+- Training the Kernel SVM model on the Training set
+- Predicting a new result
+- Predicting the Test set results
+- Making the Confusion Matrix
+- Visualising the Training set results
+- Visualising the Test set results
+
