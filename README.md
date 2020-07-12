@@ -199,4 +199,16 @@ A decision tree is a flowchart-like tree structure where an internal node repres
 
 ![DTC](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%2013%20-%20Decision%20Tree%20Classification/DTC.JPG)  
 
-Decision Tree is a white box type of ML algorithm. It shares internal decision-making logic, which is not available in the black box type of algorithms such as Neural Network. Its training time is faster compared to the neural network algorithm. The time complexity of decision trees is a function of the number of records and number of attributes in the given data. The decision tree is a distribution-free or non-parametric method, which does not depend upon probability distribution assumptions. Decision trees can handle high dimensional data with good accuracy.
+Decision Tree is a white box type of ML algorithm. It shares internal decision-making logic, which is not available in the black box type of algorithms such as Neural Network. Its training time is faster compared to the neural network algorithm. The time complexity of decision trees is a function of the number of records and number of attributes in the given data. The decision tree is a distribution-free or non-parametric method, which does not depend upon probability distribution assumptions. Decision trees can handle high dimensional data with good accuracy.  
+
+It has the following: 
+- Importing the libraries
+- Importing the dataset
+- Splitting the dataset into the Training set and Test set
+- Feature Scaling
+- Training the Decision Tree model on the Training set
+- Predicting a new result
+- Predicting the Test set results
+- Making the Confusion Matrix
+- Visualising the Training set results
+- Visualising the Test set results
