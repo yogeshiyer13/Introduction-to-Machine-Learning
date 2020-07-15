@@ -212,3 +212,20 @@ It has the following:
 - Making the Confusion Matrix
 - Visualising the Training set results
 - Visualising the Test set results
+
+**Part 14 - Random Forest Classification -**     
+Random forest is a supervised learning algorithm which is used for both classification as well as regression. But however, it is mainly used for classification problems. As we know that a forest is made up of trees and more trees means more robust forest. Similarly, random forest algorithm creates decision trees on data samples and then gets the prediction from each of them and finally selects the best solution by means of voting. It is an ensemble method which is better than a single decision tree because it reduces the over-fitting by averaging the result.
+
+![RFC](https://github.com/yogeshiyer13/Introduction-to-Machine-Learning/blob/master/Part%2014%20-%20Random%20Forest%20Regression/RFC%20Algo.JPG)
+
+It has the following:
+- Importing the libraries
+- Importing the dataset
+- Splitting the dataset into the Training set and Test set
+- Feature Scaling
+- Training the Random Forest model on the Training set
+- Predicting a new result
+- Predicting the Test set results
+- Making the Confusion Matrix
+- Visualising the Training set results
+- Visualising the Test set results
